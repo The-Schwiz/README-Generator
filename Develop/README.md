@@ -28,7 +28,7 @@ N/A
         
 ## Credits 
         
-Max
+None
         
 ## GitHub 
         
